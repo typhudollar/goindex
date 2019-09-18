@@ -5,7 +5,7 @@
 material: [https://index.gd.workers.dev/](https://index.gd.workers.dev/)  
 classic: [https://indexc.gd.workers.dev/](https://indexc.gd.workers.dev/)  
 
-## Cài đặt RCLONE  
+## Cài đặt GoIndex  
 1.Cài đặt phần mềm `rclone`
 2.Làm theo các bước hướng dẫn từ trang [https://rclone.org/drive/]( https://rclone.org/drive/) để build một file cấu hình
 3.Thực thi lệnh `rclone config file` để tìm đường dẫn file cấu hình `rclone.conf`  
