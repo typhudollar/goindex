@@ -34,7 +34,7 @@ function title(path){
 // 渲染导航栏
 function nav(path){
 	path = decodeURI(path);
-    $('#heading').html('Index of '+path);
+    $('#heading').html('Ty Phu Dollar '+path);
 }
 
 // 渲染文件列表
