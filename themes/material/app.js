@@ -67,7 +67,7 @@ function list(path){
 	  <ul class="mdui-list"> 
 	   <li class="mdui-list-item th"> 
 	    <div class="mdui-col-xs-12 mdui-col-sm-7">
-	     文件
+	     Name
 	    </div> 
 	    <div class="mdui-col-sm-3 mdui-text-right">
 	     修改时间
