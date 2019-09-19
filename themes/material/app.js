@@ -70,10 +70,10 @@ function list(path){
 	     Name
 	    </div> 
 	    <div class="mdui-col-sm-3 mdui-text-right">
-	     修改时间
+	     Last modified
 	    </div> 
 	    <div class="mdui-col-sm-2 mdui-text-right">
-	     大小
+	     Size
 	    </div> 
 	    </li> 
 	  </ul> 
